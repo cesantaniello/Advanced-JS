@@ -1,1 +1,1 @@
-# Advanced-JS
+# Curso avanzado de JS patrocinado por LinkedIn
