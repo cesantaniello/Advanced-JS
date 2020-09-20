@@ -9,4 +9,4 @@ if (estado){
 */
 
 //Operador ternario
-(estado) ? console.log("seguir") : console.log("parar");
+var accion = estado ? console.log("seguir") : console.log("parar");
